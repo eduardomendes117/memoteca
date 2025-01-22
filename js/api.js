@@ -1,4 +1,4 @@
-const URL_BASE = "http://localhost:3000";
+const URL_BASE = "https://memoteca-eduu.vercel.app";
 
 const converterStringParaData = (dataString) => {
   const [ano, mes, dia] = dataString.split("-");
